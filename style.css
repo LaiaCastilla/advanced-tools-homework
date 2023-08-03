@@ -127,4 +127,7 @@ img {
     text-align: center;
     margin: 0 50px;
   }
+  .row {
+    margin-bottom: 0px;
+  }
 }
